@@ -2,7 +2,7 @@
 
 <h2>Что было сделано?</h2>
 <h3>Отзывчивая верстка</h3>
-<div style='display:flex'>
+<div style="display:flex">
   <div>
     <p>Десктопная версия</p>
     <img src="desktop.png"> 
