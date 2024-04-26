@@ -2,7 +2,15 @@
 
 <h2>Что было сделано?</h2>
 <h3>Отзывчивая верстка</h3>
-<p>Десктопная версия</p>
-<img src="desktop.png"> 
-<p>Мобильная версия</p>
-<img src="mobile.png">
+<div style='display:flex'>
+  <div>
+    <p>Десктопная версия</p>
+    <img src="desktop.png"> 
+  </div>
+  <div>
+    <p>Мобильная версия</p>
+    <img src="mobile.png">
+  </div>
+</div>
+
+
