@@ -6,7 +6,11 @@
   <tr>
     <th><p>Десктопная версия</p></th>
     <th><p>Мобильная версия</p></th>
-    <td valign="top"> <img src="desktop.png" width="300"> </td>
-    <td valign="top"> <img src="mobile.png" width="300"></td>
+    <tr>
+       <td valign="top"> <img src="desktop.png" width="300"> </td>
+    </tr>
+    <tr><td valign="top"> <img src="mobile.png" width="300"></td></tr>
+   
+    
   </tr>
 </table>
