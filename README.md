@@ -3,6 +3,6 @@
 <h2>Что было сделано?</h2>
 <h3>Отзывчивая верстка</h3>
 <p>Десктопная версия</p>
-<img src="destop.png"> 
+<img src="desktop.png"> 
 <p>Мобильная версия</p>
 <img src="mobile.png">
