@@ -1,1 +1,1 @@
-# stek_pottery
+# stekpottery
