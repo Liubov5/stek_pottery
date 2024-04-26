@@ -4,7 +4,9 @@
 <h3>Отзывчивая верстка</h3>
 <table>
   <tr>
-    <td valign="top"> <p>Десктопная версия</p><img src="desktop.png" width="300"> </td>
-    <td valign="top"> <p>Мобильная версия</p><img src="mobile.png" width="300"></td>
+    <th><p>Десктопная версия</p><</th>
+    <th><p>Мобильная версия</p></th>
+    <td valign="top"> img src="desktop.png" width="300"> </td>
+    <td valign="top"> <img src="mobile.png" width="300"></td>
   </tr>
 </table>
