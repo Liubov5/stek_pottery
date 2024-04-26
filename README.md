@@ -5,11 +5,11 @@
 <div style="display:flex; flex-direction:row;">
   <div>
     <p>Десктопная версия</p>
-    <img src="desktop.png" style="max-width:300px"> 
+    <img src="desktop.png" width="300"> 
   </div>
   <div>
     <p>Мобильная версия</p>
-    <img src="mobile.png" style="max-width:300px">
+    <img src="mobile.png" width="300">
   </div>
 </div>
 
